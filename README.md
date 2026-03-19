@@ -26,6 +26,7 @@ java -jar calculator.jar
 ### Option 2: Using Source Code
 
 javac ScientificCalculator.java
+
 java ScientificCalculator
 
 ## Windows Application
