@@ -1,0 +1,7 @@
+*.class
+*.exe
+*.log
+*.ico
+*.png
+input/
+output/
